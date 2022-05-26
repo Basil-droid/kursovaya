@@ -2,13 +2,9 @@
 #include "Client.h"
 
 
-//enum COMMANDS { BROKE = 0, WAIT = 1, STARTGAME = 2, GAMERUNTIME = 3, ENDGAME = 4 };
-//enum WAITCOMMANDS { WAITFORSTART = 1 };
-//enum STARTGAMECOMMANDS { START = 1 };
-//enum GAMERUNTIMECOMMANDS { SQUARECLICK = 1 };
-//enum ENDGAMECOMMANDS { WIN = 1, LOSE = 2, ENEMYLOSTCONNECTION = 3, DRAW = 4, INTERRUPT = 5 };
 
-// Класс клиента нашей игры
+
+// ГЉГ«Г Г±Г± ГЄГ«ГЁГҐГ­ГІГ  Г­Г ГёГҐГ© ГЁГЈГ°Г»
 class ApplicationClass;
 class AppClient : Client
 {
